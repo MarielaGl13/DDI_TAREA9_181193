@@ -17,5 +17,5 @@
 |  Características |  Información |
 | :------------: | :------------: |
 | **Nombre**  |  **Tarea 9.** *Consumo de API de clima OpenWeather a través de la Implementación de retrofit.* |
-| **Descripción**  |  la aplicación "Geoposicionamiento API" para Wear OS es una herramienta útil que utiliza una API de geolocalización confiable para proporcionar información precisa sobre la ubicación actual de los usuarios en su reloj inteligente.  |
+| **Descripción**  | La aplicación "Geoposicionamiento API" para Wear OS es una herramienta útil que utiliza una API de geolocalización confiable para proporcionar información precisa sobre la ubicación actual de los usuarios en su reloj inteligente.  |
 |  **Fecha de Carga** | 21/07/23  |
